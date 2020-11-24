@@ -13,6 +13,9 @@
 **仅供学习使用！** </br>
 
 
+1. `exp1.ipynb` 第一次实验
+
+
 代码中肯定有不正确的地方，如果有需求，可以联系我。
 
 email: `hunt_hak@outlook.com`
